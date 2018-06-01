@@ -3,7 +3,7 @@ A group project for SER 322 - Database Management.
 A SQL-based movie database website.
 
 Setup Instructions:
-Step 1: Double click on 'zwamp.exe' in order to launch the web server. This program requires no installation.
+Step 1: Download and launch 'zwamp.exe' in order to launch the web server. This program requires no installation and can be found here: https://sourceforge.net/projects/zwamp/files/
 Step 2: In your web browser type 'http://localhost:8080/setup.php' in order to initialize the database from JSON storage.
 Step 3: In your web browser type 'localhost:8080' to navigate to the main movie browser page.
 
